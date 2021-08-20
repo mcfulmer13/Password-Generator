@@ -1,5 +1,5 @@
 # Password-Generator
-<h3 align="center"> The Clean Water Project</h3>
+<h3 align="center"> Password Generator</h3>
 
   <p align="center">
     Project Description
